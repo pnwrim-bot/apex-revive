@@ -140,7 +140,7 @@ const Footer = () => {
       <div className="border-t border-border">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
-            <p>© 2024 Apex Auto Parts. All rights reserved.</p>
+            <p>© 2026 Apex Auto Parts. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-primary transition-colors">Terms of Service</a>
